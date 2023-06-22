@@ -1,3 +1,9 @@
+
+# Notes from Connor
+- The project needs a mapbox-gl access token in the .env file. I have left mine in there and it should be valid at the time of sending this project.
+- Run `npm i`, then `npm start`
+
+
 # Front End Engineering Challenge
 
 Design and build a small web application to present USGS earthquake data on a map in the browser.
