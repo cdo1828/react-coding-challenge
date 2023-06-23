@@ -1,8 +1,9 @@
 
 # Notes from Connor
-- The project needs a mapbox-gl access token in the .env file. I have left mine in there and it should be valid at the time of sending this project.
-- Run `npm i`, then `npm start`
-
+- You will need a working mapbox-gl access token, go to https://docs.mapbox.com/help/getting-started/
+- Using `.env.example`, copy and paste the contents into new file `.env'
+- Insert your mapbox-gl access token into `.env`
+- In your terminal, from the root directory run `npm i`, then `npm start`
 
 # Front End Engineering Challenge
 
